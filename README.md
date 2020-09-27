@@ -83,6 +83,7 @@
     * [ ] Pagination __test__
 
 * [ ] User (admin only!)
+----
     * [ ] GET /users
     * [ ] GET /users __test__
     * [ ] UPDATE /users/{id}
@@ -99,6 +100,7 @@
     * [ ] Pagination __test__
 
 * [ ] Authentication
+----
     * [ ] Register /auth/register
     * [ ] Register /auth/register __test__
     * [ ] Login /auth/login
@@ -111,18 +113,22 @@
     * [ ] Oauth2.0 (Google) __test__
 
 * [ ] Authorization
+----
     * [ ] Only admin can GET, DELETE, PUT, UPDATE users
     * [ ] __test__
     * [ ] Only admin && seller owner can GET, DELETE, PUT, UPDATE cars.
     * [ ] __test__
 
 * [ ] Admin panel (admin only)
+----
     * [ ] __test__
 
 * [ ] Integrate Stripe
+----
     * [ ] __test__
 
 * [ ] Integrate Paypal
+----
     * [ ] __test__
 
 ### TODOS:
