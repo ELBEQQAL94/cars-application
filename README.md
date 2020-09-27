@@ -160,6 +160,8 @@
 * [x] Connect MongoDb Atlas with Django server
     * mongodb+srv://ELBEQQAL:<password>@cluster0.m7kbe.mongodb.net/<dbname>?retryWrites=true&w=majority
 * [x] Super User Added
+* [x] Generate .gitignore file gitignore.io
+* [x] Change name main file to config 
 * [ ] Create cars model
 * [ ] Create user model
     * [ ] /auth/register
