@@ -1,8 +1,32 @@
 ## Cars Application
 ----
 
-### Backend(DJANGO)
+### Run Back End
 ----
+
+### Back End
+----
+* Live Url: 
+
+### Run Backend Test
+----
+
+### Run Front End 
+----
+
+### Front End 
+----
+* Live Url: 
+
+### Run Front End Test
+----
+
+### Back End(DJANGO)
+----
+
+### DATABASE: 
+----
+* MONGODB Atlas
 
 * Models
 ----
@@ -141,7 +165,9 @@
     * [ ] /auth/logout
 * [ ] Create database for __test__
 
-### Frontend (REACTJS)
+### Front End (REACTJS Hooks!)
 ----
 
+### TODOS:
+----
 * [ ] Redux Hooks! 
