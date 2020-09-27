@@ -159,6 +159,7 @@
 ----
 * [x] Connect MongoDb Atlas with Django server
     * mongodb+srv://ELBEQQAL:<password>@cluster0.m7kbe.mongodb.net/<dbname>?retryWrites=true&w=majority
+* [x] Super User Added
 * [ ] Create cars model
 * [ ] Create user model
     * [ ] /auth/register
