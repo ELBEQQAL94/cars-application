@@ -117,6 +117,7 @@
     * [ ] __test__
 
 * [ ] Admin panel (admin only)
+    * [ ] __test__
 
 * [ ] Integrate Stripe
     * [ ] __test__
@@ -136,3 +137,5 @@
 
 ### Frontend (REACTJS)
 ----
+
+* [ ] Redux Hooks! 
