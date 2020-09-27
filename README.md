@@ -157,7 +157,8 @@
 
 ### TODOS:
 ----
-* [ ] Connect MongoDb Atlas with Django server
+* [x] Connect MongoDb Atlas with Django server
+    * mongodb+srv://ELBEQQAL:<password>@cluster0.m7kbe.mongodb.net/<dbname>?retryWrites=true&w=majority
 * [ ] Create cars model
 * [ ] Create user model
     * [ ] /auth/register

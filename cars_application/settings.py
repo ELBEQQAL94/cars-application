@@ -74,9 +74,19 @@ WSGI_APPLICATION = 'cars_application.wsgi.application'
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
 DATABASES = {
+    # 'default': {
+    #     'ENGINE': 'django.db.backends.sqlite3',
+    #     'NAME': BASE_DIR / 'db.sqlite3',
+    # }
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'djongo',
+        'CLIENT': {
+            'host': 'mongodb+srv://ELBEQQAL:fuck0675058801@cluster0.m7kbe.mongodb.net/cars_db?retryWrites=true&w=majority',
+            'username': 'ELBEQQAL',
+            'password': 'fuck0675058801',
+            'name': 'cars_db',
+            'authMechanism': 'SCRAM-SHA-1',
+        },
     }
 }
 
